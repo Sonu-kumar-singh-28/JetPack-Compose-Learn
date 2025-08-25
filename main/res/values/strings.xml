@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First JetpackCompose</string>
+    <string name="My_name">Sonu Singh Sengar</string>
+    <string name="jetpackcompose">Hello Jetpace Compose</string>
+</resources>
